@@ -1,5 +1,5 @@
 # E-Library
-Library Management System is develop to carry out to keep the different type of
+ELibrary System is develop to carry out to keep the different type of
 book where user can download the file of the book by paying certain amount of price.
 The system has provided three different role i.e., ADMIN, AUTHOR, and USER.
 This software's main goal is to easily access the book to the user as per their choice.
